@@ -1,0 +1,2 @@
+class GetHistoricoByCpf:
+    pass

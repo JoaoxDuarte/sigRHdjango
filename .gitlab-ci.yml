@@ -1,0 +1,18 @@
+
+stages:
+  - test
+
+run-test-job:   # This job runs in the test stage.
+  stage: test    # It only starts when the job in the build stage completes successfully.
+  tags: 
+    - CI
+  script:
+    - cd sigrh_interno
+    - /home/igor.costa/.pyenv/shims/python3.9 -m pytest
+
+run-linter-job:
+  stage: test
+  tags: 
+    - CI
+  script:
+    - /home/igor.costa/.pyenv/shims/python3.9 -m pylint sigrh_interno/

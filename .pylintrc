@@ -1,0 +1,10 @@
+[MASTER]
+disable=
+    C0114, # missing-module-docstring
+    C0115, #missing-class-docstring
+    C0116, #missing-function-docstring,
+    R0903, #too few public methods
+    R0902, #too many instance attributes
+    R0913, #too many arguments
+    W0703, #Catching too general exception Exception
+    W0613, #Unused argument

@@ -1,0 +1,2 @@
+class ServidorNaoEncontradoException(Exception):
+    pass

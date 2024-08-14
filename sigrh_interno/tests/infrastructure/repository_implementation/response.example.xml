@@ -1,0 +1,67 @@
+<sigrh>
+    <status>
+        <codMensagem>200</codMensagem>
+        <descMensagem>Dados buscados com sucesso!</descMensagem>
+    </status>
+    <horaAtendimento>1 de set de 2022 15:45:17</horaAtendimento>
+    <servidor>
+        <nome>FULANO DE TAL</nome>
+        <cpf>24433632015</cpf>
+        <dataNascimento>25/12/1998</dataNascimento>
+        <email>FULANINHO@GMAIL.COM</email>
+        <tipoSanguineo>AB+</tipoSanguineo>
+        <sexo>MASCULINO</sexo>
+        <estadoCivil>SOLTEIRO</estadoCivil>
+        <lotacao>
+            <cargaHoraria>30</cargaHoraria>
+            <cargo>
+                <codCargo>000000202</codCargo>
+                <descCargo>TEC.ASS.SOCIAL - AG. SOCIAL</descCargo>
+            </cargo>
+            <carreira>
+                <codCarreira>12</codCarreira>
+                <descCarreira>PUBLICA DE ASSISTENCIA SOCIAL</descCarreira>
+            </carreira>
+            <categoria>
+                <codCategoria>30</codCategoria>
+                <descCategoria>TECNICO EM ASSISTENCIA SOCIAL</descCategoria>
+            </categoria>
+            <codLotacao>50205010000</codLotacao>
+            <dataInicio>17/11/2021</dataInicio>
+            <descLotacao>DIRETORIA DE SISTEMAS E DADOS</descLotacao>
+            <empresa>
+                <codEmpresa>33</codEmpresa>
+                <descEmpresa>SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL DO DISTRITO FEDERAL</descEmpresa>
+                <siglaEmpresa>SEDEST</siglaEmpresa>
+            </empresa>
+            <endereco>
+                <bairro>ASA NORTE</bairro>
+                <cep>0</cep>
+                <cidade>BRASILIA</cidade>
+                <compEndereco>CS </compEndereco>
+                <endereco>SGAN 711</endereco>
+                <uf>DF</uf>
+            </endereco>
+            <evento>
+                <codEvento>SEV</codEvento>
+                <descEvento>SERVIDOR SEM RESTRICOES DE ACESSO</descEvento>
+            </evento>
+            <funcao>
+                <codFuncao />
+            </funcao>
+            <matricula>12801323</matricula>
+            <regional>
+                <codRegional>1</codRegional>
+                <descRegional>SECRETARIA DE DESENVOLVIMENTO SOCIAL</descRegional>
+            </regional>
+            <status>
+                <codStatus>2</codStatus>
+                <descStatus>NORMAL</descStatus>
+            </status>
+            <vinculo>
+                <codTipoVinculo>7</codTipoVinculo>
+                <tipoVinculo>SERVIDOR ESTATUTARIO</tipoVinculo>
+            </vinculo>
+        </lotacao>
+    </servidor>
+</sigrh>

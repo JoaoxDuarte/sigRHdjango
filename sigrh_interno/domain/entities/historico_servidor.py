@@ -1,0 +1,2 @@
+class HistoricoServidor:
+    pass
